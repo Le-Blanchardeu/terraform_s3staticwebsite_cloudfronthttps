@@ -1,0 +1,5 @@
+.vscode/
+.terraform/
+*.tfstate*
+.terraform.lock.hcl
+index.html
